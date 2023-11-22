@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "cover_img": "https://i.ibb.co/FDvmh9G/1.jpg",
+        "title": "SalesJSON: Data for precise analytics, optimizing revenue strategies",
+        "author_img": "https://i.ibb.co/r2Ln3DS/boy1.png",
+        "author": "Hamza Sohili",
+        "reading_time": 12,
+        "posted_date": "Mar 14 (4 Days ago)",
+        "hashtags": [
+            "beginners",
+            "es6"
+        ]
+    },
+    {
+        "id": 2,
+        "cover_img": "https://i.ibb.co/Km5WKwz/2.png",
+        "title": "UserJSON: Refining experiences, personalization, and seamless digital interaction.",
+        "author_img": "https://i.ibb.co/r2Ln3DS/boy1.png",
+        "author": "Hamza Sohili",
+        "reading_time": 12,
+        "posted_date": "Mar 14 (4 Days ago)",
+        "hashtags": [
+            "beginners",
+            "es6"
+        ]
+    },
+    {
+        "id": 3,
+        "cover_img": "https://i.ibb.co/pJdCZjZ/3.png",
+        "title": "InventoryJSON: Streamlining control, ensuring accuracy, optimizing supply chain.",
+        "author_img": "https://i.ibb.co/r2Ln3DS/boy1.png",
+        "author": "Hamza Sohili",
+        "reading_time": 12,
+        "posted_date": "Mar 14 (4 Days ago)",
+        "hashtags": [
+            "beginners",
+            "es6"
+        ]
+    },
+    {
+        "id": 4,
+        "cover_img": "https://i.ibb.co/6m5qR8W/4.jpg",
+        "title": "WeatherJSON: Aiding forecasts, supporting planning, facilitating timely decision-making.",
+        "author_img": "https://i.ibb.co/r2Ln3DS/boy1.png",
+        "author": "Hamza Sohili",
+        "reading_time": 12,
+        "posted_date": "Mar 14 (4 Days ago)",
+        "hashtags": [
+            "beginners",
+            "es6"
+        ]
+    }
+]
